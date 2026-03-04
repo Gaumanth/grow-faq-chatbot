@@ -1,0 +1,25 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/introduction-to-mutual-funds.html
+Title: Introduction to Mutual Funds - AMFI
+Category: AMFI Education
+
+What is a Mutual Fund?
+A mutual fund is an investment vehicle that pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities. Each investor owns units, which represent a portion of the holdings of the fund. The income/gains generated from this collective investment are distributed proportionately amongst the investors after deducting applicable expenses and levies, by calculating a scheme's Net Asset Value (NAV). Mutual funds are managed by Asset Management Companies (AMCs) registered with SEBI.
+
+How Does a Mutual Fund Work?
+A fund manager, employed by the AMC, invests the pooled money in securities (stocks, bonds, etc.) according to the fund's investment objective. The fund's NAV is calculated at the end of each business day. NAV = (Total Assets - Total Liabilities) / Number of Units Outstanding. Investors buy and sell units at the prevailing NAV.
+
+Advantages of Mutual Funds:
+1. Professional Management: Fund managers with expertise make investment decisions.
+2. Diversification: Investment is spread across multiple securities, reducing risk.
+3. Liquidity: Open-ended fund units can be redeemed on any business day at the NAV.
+4. Affordability: You can start investing with as little as Rs 100 through SIP.
+5. Transparency: NAV is declared daily; portfolios are disclosed monthly.
+6. Regulation: All mutual funds are regulated by SEBI.
+
+Key Terms:
+- NAV (Net Asset Value): Per unit market value of the fund.
+- AUM (Assets Under Management): Total market value of all investments managed.
+- Expense Ratio (TER): Annual fee charged by the fund, expressed as a percentage of AUM.
+- Exit Load: Fee charged on redeeming units before a specified period.
+- SIP (Systematic Investment Plan): Investing a fixed amount at regular intervals.
+- Lumpsum: One-time investment in a mutual fund.

@@ -1,0 +1,29 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/types-of-mutual-fund-schemes.html
+Title: Types of Mutual Fund Schemes - AMFI
+Category: AMFI Education
+
+Types of Mutual Fund Schemes as per SEBI Categorization:
+
+A. Equity Schemes:
+1. Large Cap Fund: Minimum 80% investment in large cap stocks (1st to 100th company by market capitalisation). Example: HDFC Top 100 Fund / HDFC Large Cap Fund.
+2. Mid Cap Fund: Minimum 65% investment in mid cap stocks (101st to 250th company). Example: HDFC Mid-Cap Opportunities Fund.
+3. Small Cap Fund: Minimum 65% investment in small cap stocks (251st company onwards).
+4. Multi Cap Fund: Minimum 75% investment in equity with at least 25% each in large, mid, and small cap.
+5. Flexi Cap Fund: Minimum 65% in equity with flexibility across market caps. Example: HDFC Flexi Cap Fund.
+6. ELSS (Equity Linked Savings Scheme): Minimum 80% in equity with 3-year lock-in. Tax benefit under Section 80C. Example: HDFC ELSS Tax Saver Fund.
+7. Sectoral/Thematic Fund: Minimum 80% in stocks of a particular sector or theme.
+8. Focused Fund: Maximum 30 stocks with minimum 65% in equity.
+9. Value/Contra Fund: Follows value or contrarian investment strategy.
+10. Dividend Yield Fund: Predominantly invests in dividend-yielding stocks.
+
+B. Debt Schemes:
+Invest in fixed income instruments like government securities, corporate bonds, and money market instruments. Categories include Overnight Fund, Liquid Fund, Short Duration Fund, Medium Duration Fund, Long Duration Fund, Gilt Fund, and others.
+
+C. Hybrid Schemes:
+Invest in a mix of equity and debt. Categories include Conservative Hybrid, Balanced Advantage, Aggressive Hybrid, Dynamic Asset Allocation, Multi Asset Allocation, and Equity Savings.
+
+D. Solution-Oriented Schemes:
+Include Retirement Fund (5-year lock-in) and Children's Fund (5-year lock-in or till child attains age of majority).
+
+Risk-o-meter Categories:
+All schemes must display a riskometer with six levels: Low, Low to Moderate, Moderate, Moderately High, High, and Very High. All equity funds typically fall under Very High risk.

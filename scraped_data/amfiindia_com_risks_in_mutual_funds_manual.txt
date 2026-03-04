@@ -1,0 +1,32 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/risks-in-mutual-funds.html
+Title: Risk Factors in Mutual Funds - AMFI
+Category: AMFI Education
+
+Understanding Risk in Mutual Funds:
+
+All mutual fund investments are subject to market risk. The value of investments can go up or down depending on market conditions. Different types of mutual funds carry different levels of risk.
+
+Types of Risks in Mutual Funds:
+1. Market Risk: The risk that the value of investments will decrease due to general market movements. Equity funds are more susceptible to market risk than debt funds.
+2. Credit Risk: The risk that the issuer of a bond or debt security may default on payment of interest or principal. Applicable primarily to debt funds.
+3. Interest Rate Risk: The risk that changes in interest rates will affect the value of debt securities. When interest rates rise, bond prices fall and vice versa.
+4. Liquidity Risk: The risk that the fund may not be able to sell its holdings quickly enough at a fair price.
+5. Concentration Risk: Higher risk when the fund's portfolio is concentrated in a few securities or sectors.
+
+SEBI Riskometer:
+SEBI mandates all mutual fund schemes to display a riskometer that indicates the level of risk:
+- Low: Principal at low risk (e.g., overnight funds, liquid funds)
+- Low to Moderate: Principal at low to moderate risk
+- Moderate: Principal at moderate risk
+- Moderately High: Principal at moderately high risk
+- High: Principal at high risk
+- Very High: Principal at very high risk (e.g., equity funds)
+
+HDFC Fund Risk Levels:
+- HDFC Top 100 Fund (Large Cap): Very High Risk
+- HDFC Flexi Cap Fund: Very High Risk
+- HDFC ELSS Tax Saver Fund: Very High Risk
+- HDFC Mid-Cap Opportunities Fund: Very High Risk
+
+Important Disclaimer:
+Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing. Past performance is not indicative of future returns. The NAV of the scheme can go up or down depending on the factors and forces affecting the securities markets.

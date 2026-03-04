@@ -1,0 +1,31 @@
+Source: https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-mutual-fund-schemes_36199.html
+Title: SEBI MF Categorization Circular
+Category: SEBI Regulation
+
+SEBI Circular on Categorization and Rationalization of Mutual Fund Schemes (October 6, 2017):
+
+SEBI issued this circular to bring uniformity in the characteristics of similar type of schemes launched by different mutual funds. Key provisions:
+
+Equity Scheme Categories and Definitions:
+1. Large Cap Fund: Minimum 80% in large cap stocks (top 100 by full market capitalisation). Benchmark: NIFTY 100 or similar.
+2. Large & Mid Cap Fund: Minimum 35% each in large cap and mid cap stocks.
+3. Mid Cap Fund: Minimum 65% in mid cap stocks (101st to 250th by market capitalisation). Benchmark: Nifty Midcap 150 or similar.
+4. Small Cap Fund: Minimum 65% in small cap stocks (251st and beyond).
+5. Multi Cap Fund: Minimum 75% in equity with at least 25% each in large, mid, small cap.
+6. Flexi Cap Fund: Minimum 65% in equity, flexible allocation across caps. Benchmark: NIFTY 500 or similar.
+7. ELSS: Minimum 80% in equity, mandatory 3-year lock-in, tax benefit under Section 80C.
+8. Sectoral/Thematic: Minimum 80% in stocks of a specific sector or theme.
+9. Focused Fund: Maximum 30 stocks, minimum 65% in equity.
+10. Value/Contra: Value or contrarian investment strategy with minimum 65% equity.
+
+Riskometer Requirements:
+All mutual fund schemes must prominently display a riskometer in all scheme-related communications. The riskometer has six levels: Low, Low to Moderate, Moderate, Moderately High, High, Very High. AMCs must evaluate and update the riskometer on a monthly basis.
+
+Benchmark Index Requirements:
+Every scheme must declare a benchmark index for performance comparison. Total Return Index (TRI) versions must be used instead of Price Return Index for more accurate benchmarking.
+
+HDFC Fund Benchmarks per SEBI:
+- HDFC Top 100 / Large Cap Fund: NIFTY 100 TRI
+- HDFC Flexi Cap Fund: NIFTY 500 TRI
+- HDFC ELSS Tax Saver Fund: NIFTY 500 TRI
+- HDFC Mid-Cap Opportunities Fund: Nifty Midcap 150 TRI

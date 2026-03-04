@@ -1,0 +1,612 @@
+Source: https://groww.in/p/sip-systematic-investment-plan
+Title: Groww - What is SIP
+Category: Groww Guide
+
+What is SIP & How Systematic Investment Plan(SIP) Works?
+What is SIP & How Does Systematic Investment Plan(SIP) Works?
+Investing regularly in mutual funds/stocks on a monthly, quarterly, annual, or semi-annual basis is known as SIP.
+The
+full form of SIP
+is Systematic Investment Plan. It is a “
+long-term investment strategy”
+where one can start investing with as little as ₹100.
+According to AMFI (Association of Mutual Funds in India),
+in July 2025, SIP inflows touched an all-time high of ₹28,464 crore
+The reason behind these numbers and why retail investors are choosing SIP investments is the
+compounding effect”
+that builds wealth over time.
+What is SIP?
+In the Systematic Investment Plan, the investor invests a fixed amount of money (usually monthly or quarterly) into a mutual fund scheme or stock. The investment is made on a regular basis and in a disciplined manner, regardless of market volatility and conditions.
+Now that we have explained the
+SIP meaning
+, the next section explores its simple yet powerful working mechanism.
+How does SIP work?
+SIP Set-Up
+To start investing in SIP, the investor needs to decide on the three important parameters, i.e.,
+Investment Amount:
+It is the amount of money chosen to invest at regular intervals. This can be ₹100 per month or higher amounts like ₹1,000, ₹5,000, ₹20,000, or even in lakhs, depending on income flow and financial goals.
+Investment Frequency:
+This refers to how frequently the investment is made, whether on a daily, weekly, monthly, quarterly, annual, or semi-annual basis.
+Mutual Fund Scheme
+or Stock Selection:
+The amount chosen is invested in the selected mutual fund scheme. For those who opt for a
+stock SIP,
+the amount is invested in the selected stock.
+The entire investment process and returns will solely depend on what one selects in this step.
+Once the parameters are decided, the SIP can be set up via a third-party investment platform like
+Groww
+, a financial advisor, or directly through AMC.
+Auto-Debit
+After setup, the autopay mandate needs to be activated. So, the predetermined amount is auto-debited from the bank account and invested in the mutual fund on the specified date.
+Unit Allocation
+Every mutual fund unit has an NAV (Net Asset Value), which is directly proportional to the mutual fund investment value.
+As NAV increases (⬆️), the mutual fund investment value also increases (⬆️) and vice versa.
+For each investment, the individuals are allocated units of the mutual fund scheme based on the current Net Asset Value.
+Here’s how!
+Below is the NAV graph of
+Groww Aggressive Hybrid Fund Direct Growth
+On 01-Jan-19, the NAV was 10.03
+On 01-Jan-24, the NAV was 19.69
+In 5 years, the fund has almost given annual returns of 14.4%.
+A monthly investment of ₹5,000 in the Groww Aggressive Hybrid Fund Direct-Growth over 5 years (total investment: ₹3,00,000), at an annualised return of 14.42%, would have grown to approximately ₹4,09,650.
+Disclaimer:
+Past performance is not indicative of future results. Investment in mutual funds or any other financial product involves risks, and the value of investments may fluctuate.
+Compounding Effect
+SIPs leverage the power of compounding, which leads to exponential growth in investment value over time.
+Let’s understand this with an example.
+Raj invests ₹5000 monthly in an XYZ mutual fund scheme for 10 years.
+The total amount invested is ₹6,00,000.
+Expecting 12% returns p.a., the future value of Raj’s investment will be approximately
+11,61,695 (approx).
+In 10 years, the money will almost double up, thanks to the power of compounding and disciplined investment.
+So,
+“Start early,
+Stay invested long-term to get a high return on investment!”
+Types of SIP
+Mutual funds SIPs are of different types.
+Regular SIP
+In a regular SIP, a predetermined amount is invested at regular intervals for a fixed period.
+Perfect For:
+Individuals looking for disciplined investing over the long term.
+Example:
+A decides to invest ₹5000 every month for one year in a mutual fund scheme. Here,
+Pre-determined amount: ₹5000
+Regular interval: monthly
+Fixed period: One year
+Perpetual SIP
+In a Perpetual SIP, the amount and investment frequency are pre-defined. However, these don’t have a fixed tenure, and investors can invest as long as they want.
+Perfect For:
+Younger generations who haven’t decided on their goals,
+With an investment surplus, or
+Those who want to keep investing without worrying about the end date.
+Example:
+Vijay invests ₹5,000 every month in a mutual fund scheme with no fixed period. The investment will be continued until he decides to stop it.
+Top-up SIP/Step-up SIP
+In a top-up SIP or step-up SIP, the invested amount is increased periodically (e.g., on an annual basis). It allows investment to keep pace with inflation.
+Perfect For:
+Those who can’t commit to a big investment initially and want to increase it according to their income.
+Example:
+Starting the investment with ₹5,000 and increasing it by 10% every year, i.e., ₹500.
+Flexible SIP/Anytime SIP
+As the name suggests, flexible SIPs are flexible investment options. Here, the investment frequency and amount are flexible. So, the investor can increase or decrease the SIP amount based on their financial situation.
+Perfect For:
+Individuals with irregular income or those who may face occasional cash flow constraints.
+Example:
+Investing ₹5,000 one month and ₹3,000 the next, based on fund availability.
+Multi SIP/Combo SIP
+Multi SIP/Combo SIP allows investors to invest in multiple schemes of the same fund house through a single SIP. From the investor's perspective, it appears as a single SIP, but once the amount comes in, the mutual fund house bifurcates it into different schemes.
+In short, with Multi SIP/Combo SIP, one can invest in large-cap, flexi-cap, and debt funds simultaneously.
+Perfect For:
+Those who want to diversify investments across different mutual funds using a single consolidated SIP.
+If a mutual fund house has multiple schemes that are performing well.
+Benefits of Investing In SIPs
+SIP investments offer numerous advantages. Below, we have explained a few!
+Rupee Cost Averaging Factor
+SIPs allow investors to take advantage of the
+Rupee Cost Averaging Factor,
+or RCA.
+What is the
+Rupee Cost Averaging Factor?
+When investors invest regularly over time, irrespective of market volatility, the overall cost of investments is averaged out. This way, when the market is down, more mutual fund units will be allocated and fewer units when markets are up.
+Let’s understand the concept with an example.
+Vijay invests 2000 every month in an equity mutual fund via an SIP. Below is an illustrative overview of his 12-month investment journey, including NAV and MF units.
+Month
+NAV
+MF Units
+Jan
+100.00
+Feb
+111.11
+March
+90.91
+April
+125.00
+May
+83.33
+June
+100.00
+July
+76.92
+August
+133.33
+Sept
+71.43
+Oct
+117.65
+Nov
+66.67
+Dec
+105.26
+With the above table, it is clear that:
+Falling market (Less NAV)
+More mutual fund units
+Rising market (More NAV)
+Fewer mutual fund units
+Here,
+Average NAV cost: ₹21.25
+Average Mutual fund unit cost: ₹20.31 per unit
+So, Vijay got mutual fund units at a lower cost than the average NAV of the units. This is how the
+Rupee Cost Averaging Factor
+reduces the average cost per unit over time and mitigates the impact of market volatility.
+Disciplined Investing
+SIPs encourage investors to invest a fixed amount at regular intervals.
+This way, one can enjoy several benefits, like
+A habit of consistent and disciplined investing
+Regularly investing small amounts helps gradually build a substantial corpus without large lump-sum contributions.
+Investment Flexibility
+SIPs, majorly Flexible SIPs, allow you to increase or decrease the investment amount based on your financial situation. This flexibility ensures that temporary financial challenges (if arise) don’t affect your investment journey.
+Start With Small Contributions
+SIP investment is perfect for all types of investors, including those with limited funds. You don’t need a large sum of money; even small monthly contributions can grow significantly over time.
+Important Things To Remember Before Investing In SIPs
+Exit Load
+Exit Load
+refers to the fee charged when you exit your SIP or redeem the mutual fund units before a specified period (usually within 1-3 years). The general exit load starts at 1% and varies depending on the fund chosen.
+7-5-3-1 SIP Investing Rule
+Follow the
+7-5-3-1 SIP investing rule
+for better returns on your investment. It stands for:
+Invest for at least 7 years
+Invest the amount across five different funds/asset classes. For instance, small-cap, mid-cap, large-cap, ETFs, Value Stocks, Global Stocks, etc.
+Be prepared to face the three phases that might urge you to give up on your SIP.
+The Disappointment Phase:
+During this phase, returns may vary between 7% and 10%. Investors might have expected better and be disappointed by such returns.
+The Irritation Phase:
+The returns on this phase are lower than those on fixed deposits (0-7%), which might lead to frustration and dissatisfaction.
+The Panic Phase:
+In this phase, the value of your portfolio might end up negative (<0%), i.e., less than what you have invested. This might trigger feelings of anxiety, concern, and panic.
+Increase the SIP amount at least once a year.
+Expense Ratio
+It is the annual fee mutual fund companies charge to manage the fund. Always opt for funds with the lowest expense ratio, as it increases overall returns.
+Tax Implications
+SIP investment has the following tax implications:
+If held for less than one year, STCG (short-term capital gain) is applicable, i.e., 20%.
+If held for more than one year, LTCG (
+long-term capital gain
+) is applicable, i.e., a return up to 1.25 lakh will be tax-free; beyond that, 12.5% of tax will be levied.
+Common Questions Regarding SIPs
+Which is better: SIP or lump sum investment?
+Both SIP and lump-sum investments have their own advantages.
+SIP is perfect for those investors who
+Want to invest regularly for a long period (5 years, 15 years, and so on.)
+Don’t get bothered by market fluctuations.
+Lumpsum is perfect for investors:
+With a large amount of money to invest upfront
+Who can handle losses in case of market volatility
+I am not a long-term investor. Is SIP investment right for me?
+SIPs are generally more suitable for long-term investors, as they generate returns with a compounding effect. The real return on investment is visible only after 5 to 10 years of investing.
+The stock market is down. Is it the right time to invest in SIP?
+Absolutely, yes! Investing when the market is down can be advantageous, as it allows you to buy more mutual fund units at lower prices (due to rupee cost averaging).
+I don’t have a demat account. Can I invest in SIP?
+Yes, you can invest in SIPs without a Demat account and directly through the Groww
+Mutual Funds platform
+I missed my one-month SIP instalment. Will I be charged any penalties?
+If you
+miss an SIP instalment
+and the auto-pay mandate fails due to insufficient balance, the mutual fund house does not charge any penalty. However, your bank will levy a penalty anywhere from ₹100 to ₹750. To avoid these penalties, you can pause your SIP prior if you cannot pay any specific month's instalment.
+Conclusion
+SIPs offer a simple, disciplined, and effective way to invest in mutual funds. By investing a fixed amount regularly, you can build a substantial corpus for your future goals.
+Always remember
+Consistency is the key, and starting early can make a huge difference!
+You May Also Be Interested to Know
+How to Invest in SIP
+How to Invest in US Stocks via Mutual Funds?
+How to Cancel Mutual Fund SIP
+How to Buy Sovereign Gold Bonds
+How to Invest in Mutual Funds
+How to Invest in Direct Mutual Funds
+Related Mutual Fund Pages
+SIP
+Lumpsum
+AUM
+Systematic Transfer Plan
+Exit Load
+Mutual Fund Units
+Expense Ratio
+Childrens Fund
+NAV
+Interval Funds
+Systematic Withdrawal Plan (SWP)
+Emerging Market Funds
+Hedge Funds
+Benchmark
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+Download the App
+About Us
+Pricing
+Blog
+Media & Press
+Careers
+Help & Support
+Trust & Safety
+Investor Relations
+Stocks
+F&O
+MTF
+ETF
+IPO
+Mutual Funds
+Commodities
+Groww Terminal
+915 Terminal
+Stock Screens
+Algo Trading
+Groww Charts
+Groww Digest
+Demat Account
+Groww AMC
+© 2016-
+2026
+Groww. All rights reserved.
+Version:
+7.4.0
+Top Gainers Stocks
+52 Weeks High Stocks
+Tata Motors
+NHPC
+ITC
+Wipro
+BSE
+NTPC
+Top Losers Stocks
+52 Weeks Low Stocks
+IREDA
+State Bank of India
+Adani Power
+CDSL
+Cochin Shipyard
+SJVN
+Most Traded Stocks
+Stocks Market Calender
+Tata Steel
+Tata Power
+Bharat Heavy Electricals
+Indian Oil Corporation
+HUDCO
+SAIL
+Stocks Feed
+Suzlon Energy
+Zomato (Eternal)
+Yes Bank
+Infosys
+NBCC
+IRCTC
+Share Market Live Update
+FII DII Activity
+IRFC
+Bharat Electronics
+HDFC Bank
+Vedanta
+Reliance Power
+Jaiprakash Power Ventures
+Stocks Sectors
+NIFTY 50
+NIFTY Midcap 100
+NIFTY 100
+US Tech 100
+NIFTY Realty
+Nikkei index
+SENSEX
+NIFTY Smallcap 100
+NIFTY Auto
+Dow Jones Futures
+NIFTY PSU Bank
+NIFTY FMCG
+NIFTY BANK
+NIFTY MIDCAP 150
+KOSPI Index
+Dow Jones Index
+Gift Nifty
+BSE BANKEX
+India VIX
+NIFTY Pharma
+HANG SENG Index
+BSE 100
+FTSE 100 Index
+S&P 500
+NIFTY NEXT 50
+NIFTY Metal
+DAX Index
+NIFTY Fin Service
+CAC Index
+Nifty Pvt Bank
+NIFTY Bank Options
+SBI Options
+Bajaj Finance Options
+Axis Bank Options
+Hindustan Unilever Options
+NIFTY Bank Futures
+Finnifty Futures
+ITC Futures
+ICICI Bank Futures
+Biocon Futures
+Indusind Bank Futures
+Crude Oil Mini Future Price
+Gold Petal Future Price
+Silver Micro Future Price
+Nickel Future Price
+Natural Gas Mini MCX Option Chain
+Copper MCX Option Chain
+NIFTY 50 Options
+HDFC Bank Options
+Wipro  Options
+DLF Options
+REC  Options
+Yes Bank Futures
+Zomato Futures
+Ashok Leyland Futures
+HDFC Bank Futures
+UPL Futures
+Adani Enterprises Futures
+Gold Future Price
+Natural Gas Future Price
+Zinc Future Price
+Gold MCX Option Chain
+Gold Mini MCX Option Chain
+Bse Sensex Options
+Tata Steel Options
+NTPC Options
+Bajaj Auto Options
+Indusind Bank Options
+Tata Motors Futures
+Infosys Futures
+Asian Paints Futures
+Lupin Futures
+Cipla Futures
+IDFC First Bank Futures
+Gold Mini Future Price
+Natural Gas Mini Future Price
+Copper Future Price
+Crude Oil MCX Option Chain
+Silver MCX Option Chain
+Finnifty Options
+Infosys Options
+Asian Paints Options
+Coal India Options
+Ashok Leyland Options
+Tata Steel Futures
+BSE Sensex Futures
+Wipro Futures
+DLF Futures
+Bajaj Finance Futures
+Piramal Enterprises Futures
+Gold Ten Future Price
+Silver Future Price
+Aluminium Future Price
+Crude Oil Mini MCX Option Chain
+Silver Mini MCX Option Chain
+Tata Motors Options
+ITC Options
+ICICI Bank Options
+Adani Enterprises Options
+NIFTY 50 Futures
+Coal India Futures
+Axis Bank Futures
+Vedanta Futures
+Reliance Industries Futures
+Hindustan Copper Futures
+Crude Oil Future Price
+Gold Guinea Future Price
+Silver Mini Future Price
+Electricity Future Price
+Natural Gas MCX Option Chain
+Zinc MCX Option Chain
+MF Screener
+Debt Mutual Funds
+Best Multicap Mutual funds
+Best Contra Mutual funds
+Best Conservative Mutual funds
+SBI Contra Fund
+Nippon India Nifty 500 Momentum 50 Index Fund
+HDFC Balanced Advantage Fund
+Quant Mid Cap Fund
+Bank of India Small Cap Fund
+Quant Multi Asset Fund
+Nippon India
+TATA
+Bandhan
+Edelweiss
+HSBC
+Union
+Quantum
+Shriram
+Compare Mutual Funds
+Best Debt Mutual funds
+Best Large Cap Mutual funds
+Best Value Mutual funds
+Parag Parikh Flexi Cap Fund
+HDFC Mid Cap Opportunities Fund
+Motilal Oswal Nifty India Defence Index Fund
+ICICI Prudential India Opportunities Fund
+Kotak Small Cap Fund
+Canara Robeco Bluechip Equity Fund
+GrowwMF
+Motilal Oswal
+Aditya Birla
+Axis
+Bank of India
+Bajaj Finserv
+Helios
+ITI
+Trust
+MF Knowledge Centre
+Best Equity Mutual funds
+Best Small Cap Mutual funds
+Best Arbitrage Mutual funds
+Motilal Oswal Midcap Fund
+SBI Small Cap Fund
+HDFC Small Cap Fund
+Kotak Multicap Fund
+ICICI Prudential Infrastructure Fund
+Bandhan Nifty Alpha 50 Index Fund
+SBI
+Quant
+Mirae Asset
+DSP
+Baroda BNP Paribas
+Mahindra Manulife
+Sundaram
+Samco
+Taurus
+Mutual Fund Houses
+Best Hybrid Mutual funds
+Best ELSS Mutual funds
+Best Dividend Yield Mutual funds
+Nippon India Small Cap Fund
+HDFC Flexi Cap Fund
+Tata Small Cap Fund
+Tata Ethical Fund
+Mirae Asset ELSS Tax Saver Fund
+Quant Infrastructure Fund
+HDFC
+PPFAS
+UTI
+Kotak Mahindra
+Zerodha
+Invesco
+Navi
+PGIM
+Mutual Funds Categories
+Best MidCap Mutual funds
+Best Sector Mutual funds
+Best Aggressive Mutual funds
+Quant Small Cap Fund
+SBI Magnum Children's Benefit Fund
+UTI Nifty 50 Index Fund
+JM Flexicap Fund
+HSBC Small Cap Fund
+Franklin India Multi Cap Fund
+ICICI Prudential
+LIC
+Canara Robeco
+Whiteoak
+Franklin Templeton
+360 One
+International
+Silver
+Midcap
+Liquid
+Debt
+Index
+Bank Nifty
+Nifty IT
+Equity
+Nifty 50
+Nifty Metal
+Nifty Auto
+Commodity
+Nifty Next 50
+Healthcare
+Groww
+Gold
+Sensex
+Defence
+Groww Arbitrage Fund
+Groww ELSS Tax Saver Fund
+Groww Banking & Financial Services Fund
+Groww Gold ETF FOF
+Groww Gold ETF
+Groww Short Duration Fund
+Groww Aggressive Hybrid Fund
+Groww Nifty Smallcap 250 Index Fund
+Groww Multicap Fund
+Groww Nifty India Defence ETF
+Groww Liquid Fund
+Groww Dynamic Bond Fund
+Groww Nifty Non Cyclical Consumer Index Fund
+Groww Nifty India Railways PSU Index Fund
+Groww Nifty India Railways ETF
+Groww Large Cap Fund
+Groww Overnight Fund
+Groww Nifty EV & New Age Automotive ETF FoF
+Groww Nifty 200 ETF FoF
+Groww Value Fund
+Groww Nifty Total Market Index Fund
+Groww Nifty India Defence ETF FoF
+Groww Silver ETF
+SIP Calculator
+Brokerage Calculator
+RD Calculator
+HRA Calculator
+Home Loan EMI Calculator
+Lumpsum Calculator
+Margin Calculator
+FD Calculator
+Salary Calculator
+SWP Calculator
+Stock Average Calculator
+EPF Calculator
+TDS Calculator
+MF Calculator
+SSY Calculator
+Income Tax Calculator
+EMI Calculator
+Step-Up SIP Calculator
+PPF Calculator
+GST Calculator
+Car Loan EMI Calculator
+What is IPO?
+How to Apply for an IPO
+Open IPOs
+What is Grey Market Premium?
+Upcoming IPOs
+Mainboard IPOs
+Closed IPOs
+SME IPOs
+IPO GMP
+IPO Allotment Status
+NFO
+Pricing
+Trust & Safety
+Fixed Deposit
+Intraday
+Blog
+Investor Relations
+Recurring Deposit
+Corporate Bonds
+Media & Press
+Gold Rates
+Groww Digest
+HUF Demat Account
+Careers
+Silver Rates
+Invest in Gold
+About Us
+Help & Support
+Glossary
+Sitemap
+NSE
+BSE
+MCX
+Terms and Conditions
+Policies and Procedures
+Regulatory & Other Info
+Privacy Policy
+Disclosure
+SMART ODR
+Download Forms
+Information Security Practices
+Investor Charter and Grievance
+Bug Bounty

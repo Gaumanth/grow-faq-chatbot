@@ -1,0 +1,25 @@
+Source: https://mfs.kfintech.com/investor/General/ConsolidatedAccountStatement
+Title: KFintech Consolidated Account Statement
+Category: CAS Guide
+
+KFintech (KFin Technologies Limited) - Consolidated Account Statement (CAS):
+
+What is KFintech?
+KFintech is one of India's two major Registrar and Transfer Agents (RTAs) for mutual funds, along with CAMS. KFintech services several AMCs and provides CAS for mutual fund investors.
+
+How to Request CAS from KFintech:
+1. Visit mfs.kfintech.com
+2. Go to Investor > Statements > Consolidated Account Statement
+3. Enter your PAN number or registered email address
+4. Select the statement period
+5. Submit the request
+6. CAS will be delivered to your registered email
+
+CAS from KFintech vs CAMS:
+Both CAMS and KFintech provide Consolidated Account Statements. The CAS from either RTA will include holdings from ALL mutual fund AMCs linked to your PAN, not just the ones serviced by that particular RTA. So a CAS from CAMS will include your HDFC MF holdings as well as holdings from AMCs serviced by KFintech, and vice versa.
+
+How to Get CAS via Groww:
+On Groww, you can view your mutual fund portfolio directly in the app or website. However, Groww only shows investments made through the Groww platform. For a complete consolidated view of all your mutual fund investments across all platforms, use the CAS service from CAMS or KFintech.
+
+Frequency of CAS:
+SEBI mandates that CAS be issued monthly for accounts with transactions, and at least once every six months for accounts without transactions.
