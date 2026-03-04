@@ -310,9 +310,12 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── API Key (hardcoded, no sidebar) ──────────────────────────────
+# ── API Key (st.secrets for cloud, .env for local) ──────────────
 
-api_key = os.getenv("GOOGLE_API_KEY", "")
+try:
+    api_key = st.secrets["GOOGLE_API_KEY"]
+except Exception:
+    api_key = os.getenv("GOOGLE_API_KEY", "")
 
 # ── Header Banner ────────────────────────────────────────────────
 
